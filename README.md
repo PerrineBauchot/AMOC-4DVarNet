@@ -1,4 +1,4 @@
-# AMOC_4DVarNet
+# AMOC_neural_assimilation
 Codes of variational assimilation methods used to reconstruct the considered AMOC ideal system
 
 1. AMOC_4DVar_classic.py:
